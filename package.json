@@ -18,5 +18,8 @@
     "inherits": "^2.0.3",
     "mocha": "^5.2.0",
     "ms": "^2.1.1"
-  }
+  },
+  "devDependencies": {
+  "minimist": ">=0.2.1"
+}
 }
